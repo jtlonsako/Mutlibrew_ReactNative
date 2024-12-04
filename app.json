@@ -23,7 +23,8 @@
         "backgroundColor": "#27272A"
       },
       "runtimeVersion": "1.2.5",
-      "package": "multibrew.coffee"
+      "package": "multibrew.coffee",
+      "versionCode": "2"
     },
     "web": {
       "bundler": "metro",
