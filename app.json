@@ -41,13 +41,7 @@
     "extra": {
       "router": {
         "origin": false
-      },
-      "eas": {
-        "projectId": "7fb9eae0-7c82-4ef7-bbe8-0f312082e47c"
       }
-    },
-    "updates": {
-      "url": "https://u.expo.dev/7fb9eae0-7c82-4ef7-bbe8-0f312082e47c"
     }
   }
 }
