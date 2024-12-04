@@ -23,3 +23,6 @@ expo-env.d.ts
 
 #EAS
 eas.json
+
+#app.json
+app.json
